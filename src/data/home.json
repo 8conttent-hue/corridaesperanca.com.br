@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "CORRIDAESPERANCA — Bem-vindo ao Corrida Esperança!",
+    "description": "Compartilhando nossa paixão e experiência em corridas de rua."
+  },
+  "hero": {
+    "title": "Bem-vindo ao Corrida Esperança!",
+    "subtitle": "Compartilhando nossa paixão e experiência em corridas de rua.",
+    "btnText": "Explore nosso conteúdo",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que oferecemos",
+    "items": [
+      {
+        "icon": "🏃‍♂️",
+        "title": "Dicas de Treino",
+        "desc": "Aprenda as melhores técnicas e treinos para aprimorar sua performance nas corridas."
+      },
+      {
+        "icon": "🏅",
+        "title": "Nutrição Esportiva",
+        "desc": "Descubra como a alimentação pode impactar seus resultados e bem-estar."
+      },
+      {
+        "icon": "💬",
+        "title": "Comunidade",
+        "desc": "Conecte-se com outros corredores e compartilhe experiências, desafios e conquistas."
+      },
+      {
+        "icon": "📅",
+        "title": "Calendário de Corridas",
+        "desc": "Fique por dentro das próximas corridas e eventos no Brasil para não perder nenhuma oportunidade."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "desc": "Com mais de 10 anos de experiência cada um, nós, Rodolfo e Márcia Esperança, criamos o Corrida Esperança para compartilhar nossa paixão por correr e ajudar outros corredores a alcançarem seus objetivos.",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Anos de experiência do Rodolfo"
+      },
+      {
+        "value": "8+",
+        "label": "Anos de experiência da Márcia"
+      },
+      {
+        "value": "1000+",
+        "label": "Corredores ajudados"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

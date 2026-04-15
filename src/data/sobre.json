@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o CORRIDAESPERANCA"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Com mais de 10 anos de experiência cada um, nós, Rodolfo e Márcia Esperança, criamos o Corrida Esperança para compartilhar nossa paixão por correr e ajudar outros corredores a alcançarem seus objetivos."
+  },
+  "content": "Olá! Nós somos Rodolfo e Márcia Esperança. Juntos fundamos o Corrida Esperança, um espaço dedicado a compartilhar dicas, histórias e inspirações sobre corridas de rua. Acreditamos que a corrida é muito mais que um esporte; é uma forma de vida e um meio de superar desafios.",
+  "mission": "Nossa missão é inspirar e proporcionar conhecimento aos corredores, sejam eles iniciantes ou experientes, ajudando todos a a alcançarem seus sonhos e superarem seus limites.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

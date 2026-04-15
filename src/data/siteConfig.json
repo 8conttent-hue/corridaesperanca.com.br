@@ -1,0 +1,53 @@
+{
+  "name": "CORRIDAESPERANCA",
+  "slug": "corridaesperanca.com.br",
+  "description": "Olá! Me chamo Rodolfo Esperança, aqui é o cantinho que uso com minha esposa para dividir nossa vasta experiência com corridas de rua. Sejam muito bem vindos ao meu espaço. Sou corredor profissional a mais de 10 anos e decidi junto a minha esposa, Marcia Rodrigues , a criar o corrida esperança. Oi! Muito prazer, Sou a Marcia Esperança, co-fundadora do Corrida esperança, corredora profissional a mais de 8 anos e esposa do Rodrigo. Junto ao meu marido, demos inicio a este belo projeto, compartilhamos todos os nossos conhecimentos adquiridos ao longo dos anos nas ruas desse Brasil. Tivemos a ideia de criar esse blog na intenção de ajudar pessoas que estão se interessando por corrida ou corredores já experientes, pois quando começamos nesse mundo não tinha muito conteúdo na internet.",
+  "url": "https://corridaesperanca.com.br",
+  "niche": "Esportes e Fitness",
+  "keywords": "Ola Me chamo Rodolfo Esperanca aqui e o cantinho que uso com",
+  "email": "contato@corridaesperanca.com.br",
+  "palette": "forest",
+  "colors": {
+    "primary": "#16a34a",
+    "accent": "#14532d",
+    "dark": "#052e16"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-C",
+    "hero": "Hero-C",
+    "features": "Features-J",
+    "about": "About-J",
+    "posts": "Posts-B",
+    "footer": "Footer-A",
+    "sobre": "Sobre-A",
+    "contato": "Contato-D"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
